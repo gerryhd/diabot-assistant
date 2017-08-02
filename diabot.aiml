@@ -26,7 +26,37 @@
       <template>
       </template>
   </category>
-
-
-
+  <category>
+    <pattern>*EJERCICIO*</pattern>
+      <template>
+      </template>
+  </category>
+  <category>
+    <pattern>*BAJA*</pattern>
+      <template>
+      </template>
+  </category>
+  <category>
+    <pattern>*ALTA*</pattern>
+      <template>
+      </template>
+  </category>
+    <category>
+    <pattern>*COMPLICACIONES*</pattern>
+      <template>
+      </template>
+  </category>
+  <category>
+    <pattern>*PIES*</pattern>
+      <template>
+      </template>
+  </category>
+    <category>
+    <pattern>*AUTOMONITOREO*</pattern>
+      <template>
+      </template>
+  </category>
+  
+  
+  
 </aiml>
