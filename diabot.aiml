@@ -51,7 +51,7 @@
       <template>
       </template>
   </category>
-    <category>
+  <category>
     <pattern>*AUTOMONITOREO*</pattern>
       <template>
       </template>
