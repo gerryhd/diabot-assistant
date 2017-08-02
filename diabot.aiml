@@ -1,0 +1,32 @@
+<aiml>
+  <category>
+    <pattern>HOLA</pattern>
+      <template>
+        HOLA MI NOMBRE ES DIABOT, PUEDO AYUDARTE CON LOS SIGUIENTES TEMAS  QUE ES LA DIABETES TIPO 1   QUE ES LA DIABETES TIPO 2   SUGERENCIAS ALIMENTICIAS   EJERCICIO FISICO PARA DIABETICOS   AZUCAR BAJA   AZUCAR ELEVADA   COMPLICACIONES DE LA DIABETES   CUIDADO DE LOS PIES   AUTOMONITOREO
+      </template>
+  </category>
+  <category>
+    <pattern>QUE ONDA</pattern>
+      <template>
+        HOLA MI NOMBRE ES DIABOT, PUEDO AYUDARTE CON LOS SIGUIENTES TEMAS  QUE ES LA DIABETES TIPO 1   QUE ES LA DIABETES TIPO 2   SUGERENCIAS ALIMENTICIAS   EJERCICIO FISICO PARA DIABETICOS   AZUCAR BAJA   AZUCAR ELEVADA   COMPLICACIONES DE LA DIABETES   CUIDADO DE LOS PIES   AUTOMONITOREO
+      </template>
+  </category>
+  <category>
+    <pattern>*TIPO 1*</pattern>
+      <template>
+      </template>
+  </category>
+  <category>
+    <pattern>*TIPO 2*</pattern>
+      <template>
+      </template>
+  </category>
+  <category>
+    <pattern>*SUGERENCIAS ALIMENTICIAS*</pattern>
+      <template>
+      </template>
+  </category>
+
+
+
+</aiml>
